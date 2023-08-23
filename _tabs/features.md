@@ -4,7 +4,7 @@ icon: fas fa-star
 order: 3
 ---
 
-Trucaption is a Computer-Aided Real Time Transcription (CART) system designed for events.
+Trucaption is a real-time captioning (also known as Communication Access Realtime Translation, or CART) system designed for events.
 
 - Free captioning using built-in functionality on supported browsers.
 - Advanced captioning via Azure Speech Services or Speechly.
