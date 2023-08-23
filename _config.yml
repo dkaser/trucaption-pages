@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   A real-time captioning system with support for large and small screen display. 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://www.trucaption.com/"
+url: "https://www.trucaption.com"
 
 github:
   username: dkaser # change to your github username
@@ -37,19 +37,11 @@ social:
   name: Derek Kaser
   email: derek@trucaption.com # change to your email address
   links:
-    # The first element serves as the copyright owner's link
-    - https://github.com/dkaser # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://github.com/dkaser
     - https://www.linkedin.com/in/dkaser
 
-google_site_verification: # fill in to your verification string
-
-# ↑ --------------------------
-# The end of `jekyll-seo-tag` settings
-
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: "G-FJEE2DYES7"
 
 # Prefer color scheme setting.
 #
