@@ -65,6 +65,7 @@ img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "/assets/img/trucaption_logo.png"
+logo: "/assets/img/trucaption_logo.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
