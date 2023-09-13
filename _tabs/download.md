@@ -11,7 +11,10 @@ order: 2
 
 ### Download links:
 {% for asset in site.github.latest_release.assets %}
+{% assign extension = asset.name | slice: -3, 3 | downcase %}
+{% if extension == "exe" or extension == "dmg" %}
   * [{{ asset.name}}]({{ asset.browser_download_url }})
+{% endif %}
 {% endfor %}
 
 For older releases, visit [Releases](https://github.com/dkaser/trucaption/releases).
