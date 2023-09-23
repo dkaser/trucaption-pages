@@ -17,4 +17,4 @@ order: 2
 {% endif %}
 {% endfor %}
 
-For older releases, visit [Releases](https://github.com/dkaser/trucaption/releases).
+For older releases, visit [Releases](https://github.com/trucaption/trucaption/releases).

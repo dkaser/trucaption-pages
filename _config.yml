@@ -23,7 +23,7 @@ title: Trucaption # the main title
 tagline: Real-time captioning # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A real-time captioning system with support for large and small screen display. 
+  A real-time captioning system with support for large and small screen display.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://www.trucaption.com"
@@ -106,7 +106,7 @@ paginate: 10
 plugins:
   - jekyll-github-metadata
 
-repository: dkaser/trucaption
+repository: trucaption/trucaption
 
 # ------------ The following options are not recommended to be modified ------------------
 
