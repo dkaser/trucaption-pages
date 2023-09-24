@@ -20,6 +20,7 @@ Currently, the only supported translation engine is Google Cloud Translate.
 - **API Key**: API Key from Google Cloud configuration.
 - **Translate interim transcripts**: Display translations of interim transcripts. Note: this will significantly increase translation API usage.
 - **Languages**: Select languages for translation
+
 ## Display Settings
 
 - **Maximum Lines**: adjusts the number of lines that are displayed on the editor and viewer screens. This can be useful to improve performance when running Trucaption for a long time. Set to -1 to keep all lines in the window.
