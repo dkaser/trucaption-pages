@@ -10,5 +10,11 @@ _The editor window_
 ![Viewer Window](/assets/img/screenshots/viewer.png){: .shadow; width="350" }
 _The viewer window_
 
-![Configuration Panel](/assets/img/screenshots/config.png){: .shadow; width="200" }
-_The configuration panel_
+![Transcription Settings](/assets/img/screenshots/transcription-settings.png){: .shadow; width="200" }
+_Transcription settings_
+
+![Translation Settings](/assets/img/screenshots/translation-settings.png){: .shadow; width="200" }
+Translation settings_
+
+![Display Settings](/assets/img/screenshots/display-settings.png){: .shadow; width="200" }
+Display settings_
