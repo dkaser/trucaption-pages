@@ -14,7 +14,7 @@ _The viewer window_
 _Transcription settings_
 
 ![Translation Settings](/assets/img/screenshots/translation-settings.png){: .shadow; width="200" }
-Translation settings_
+_Translation settings_
 
 ![Display Settings](/assets/img/screenshots/display-settings.png){: .shadow; width="200" }
-Display settings_
+_Display settings_
